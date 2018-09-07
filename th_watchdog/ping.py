@@ -19,7 +19,7 @@ class Ping:
 
         assert isinstance(host, str)
         self._host = host
-        self._result: Optional[int] = None
+        self._result = None
 
         result = ping(
             self._host,
