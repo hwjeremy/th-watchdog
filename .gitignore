@@ -1,0 +1,9 @@
+*.state
+/bin
+/lib
+/include
+watchdog_config.py
+__pycache__
+.Python
+pip-selfcheck.json
+*/__pycache__
