@@ -7,3 +7,5 @@ __pycache__
 .Python
 pip-selfcheck.json
 */__pycache__
+systemd_timer
+systemd_unit
